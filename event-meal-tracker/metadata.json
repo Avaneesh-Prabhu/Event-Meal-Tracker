@@ -1,0 +1,6 @@
+{
+  "name": "Event Meal Tracker",
+  "description": "Real-time volunteer meal verification system with QR code scanning, automatic time-based meal switching, team-wise pending dashboard, undo support, and Excel export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
